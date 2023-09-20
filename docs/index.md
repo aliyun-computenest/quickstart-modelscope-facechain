@@ -1,4 +1,4 @@
-# 版本更新
+# FaceChain——计算巢实现个人形象定制
 ## 09-19更新内容
 - 新版本支持指定风格定制
 - 支持prompt和Negative Prompt优化
